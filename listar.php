@@ -1,7 +1,5 @@
 <?php 
 	require "conexao.php";
-
-	$sql = "SELECT * from clientes";
 ?>
 <!doctype>
 <html>
